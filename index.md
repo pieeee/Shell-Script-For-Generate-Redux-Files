@@ -1,7 +1,7 @@
 # Automate React-Redux Files 🚀
 
 
-<img src='https://github.com/pieeee/redux-files-shell-script/blob/main/media/asset.gif'/>
+<img src='/asset.gif'/>
 
 
 
