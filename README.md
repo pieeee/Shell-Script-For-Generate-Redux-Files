@@ -1,7 +1,7 @@
-#Automate React-Redux Files 🚀
+# Automate React-Redux Files 🚀
 
 <p align="center">
-<img width="80%" src='https://github.com/pieeee/redux-files-shell-script/blob/main/media/asset.gif'/>
+<img src='https://github.com/pieeee/redux-files-shell-script/blob/main/media/asset.gif'/>
 </center>
 
 
