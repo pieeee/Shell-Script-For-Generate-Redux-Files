@@ -1,8 +1,8 @@
 # Automate React-Redux Files 🚀
 
-<p align="center">
+
 <img src='https://github.com/pieeee/redux-files-shell-script/blob/main/media/asset.gif'/>
-</p>
+
 
 
 ### Create all your redux files and starter code with a simple command 🔨
